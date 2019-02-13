@@ -43,5 +43,5 @@ $("*").click(function() { //shows the path of element currently being clicked.
 	console.log(path);
 });
 ```
-- Open your browser console and see it in action.
+- Open your browser console and see it in action..
        
